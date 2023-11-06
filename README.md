@@ -1,6 +1,6 @@
 A simple chatbot using OpenAI, Langchain, ChromaDB (Vector DB), streamlit and Python. We will use locally persistnet directory for storing chroma db. 
 
-Usecase: A bot that can answer any licensing questions from a specific document(s).   
+Usecase: A bot that can answer any licensing questions from specific document(s).   
 
 Run the code in following order:
 1. Install required packages using install.bat
