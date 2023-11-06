@@ -1,0 +1,9 @@
+unstructured
+pypdf
+streamlit
+chromadb
+langchain
+openai
+numpy
+urllib3
+unstructured
