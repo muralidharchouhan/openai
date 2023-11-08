@@ -9,7 +9,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain.schema import StrOutputParser
 from langchain.schema.runnable import RunnablePassthrough
 
-st.title("BRAIN Demo")
+st.title("Chat with your data!")
 load_dotenv("environment.env", override=True)
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
